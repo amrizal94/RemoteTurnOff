@@ -2,7 +2,7 @@
 import os
 import time
 import datetime
-time.sleep(60)
+time.sleep(30)
 init = os.path.getmtime(r'C:\Users\Administrator\Dropbox\RemoteTurnOff\fileToWatch.txt')
 # a = datetime.datetime.now()
 # b = a + datetime.timedelta(0,3) # days, seconds, then other fields.
